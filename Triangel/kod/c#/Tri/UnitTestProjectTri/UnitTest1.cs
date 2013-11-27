@@ -67,5 +67,21 @@ namespace UnitTestProjectTri
             Triangle t = new Triangle(1.3, 0.35, 0.3);
             Assert.IsTrue(!t.isScalene());
         }
+
+        [TestMethod]
+
+        public void IsoscelesTruePoints_1()
+        {
+            Triangle t = new Triangle(0.0, 10.0, 5.20);
+            Assert.IsTrue(t.isIsosceles());
+        }
+
+        [TestMethod]
+
+        public void ScaleneTruePoints_2()
+        {
+            Triangle t = new Triangle(-1.1, 5.2, -7.1);
+            Assert.IsTrue(t.isScalene());
+        }
     }
 }
