@@ -1,0 +1,7 @@
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\bin\Debug\UnitTestProjectTri.dll
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\bin\Debug\UnitTestProjectTri.pdb
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\bin\Debug\Tri.exe
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\bin\Debug\Tri.pdb
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\obj\Debug\UnitTestProjectTri.csprojResolveAssemblyReference.cache
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\obj\Debug\UnitTestProjectTri.dll
+C:\Users\Devlin\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProjectTri\obj\Debug\UnitTestProjectTri.pdb
