@@ -107,5 +107,14 @@ namespace UnitTestProjectTri
             Triangle t = new Triangle(534.5, 534.5, 534.5);
             Assert.IsTrue(!t.isScalene());
         }
+
+        [TestMethod]
+
+        public void EquilateralTruePoints()
+        {
+            Point[] points = { new Point(0, 0), new Point(10, 0), new Point(5, 20) };
+            Triangle t = new Triangle(points);
+            Assert.IsTrue(t.isEquilateral());
+        }
     }
 }
